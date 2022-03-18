@@ -6,8 +6,8 @@ Path loss exponent and shadowing factor are among important wireless channel par
 
 ### Method
 The VGG-16 model is used for predicting path loss exponent component(n) and shadowing factor(σ).
-Trained model weights and VGG-16 model are giving in this google drive link: https://drive.google.com/drive/folders/114YvDyYIZZs5nFH9Ff20K1Y7ejZLrnqc?usp=sharing
-and the testing code can be found in this repo as jupyter-notebook file named as Testing_HeightMap.ipynb
+<p>Trained model weights and VGG-16 model are giving in this google drive link: https://drive.google.com/drive/folders/114YvDyYIZZs5nFH9Ff20K1Y7ejZLrnqc?usp=sharing</p>
+<p>and the testing code can be found in this repo as jupyter-notebook file named as Testing_HeightMap.ipynb</p>
 
 ![github](https://user-images.githubusercontent.com/50488198/158435603-1ac89b6d-a0d0-44d0-9678-6aa9b19d0264.PNG)
 
@@ -19,9 +19,9 @@ Prediction of path loss exponent and shadowing factor for test samples can be se
 ### Authors Info
 Mustafa BAL - mstfbal7@gmail.com
 <p>Ahmed Nageeb MAREY</p>
-Hasan Fehmi Ateş
-Tuncer Baykaş
-Bahadır Kürşad Güntürk
+<p>Hasan Fehmi Ateş</p>
+<p>Tuncer Baykaş</p>
+<p>Bahadır Kürşad Güntürk</p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MstfBal&show_icons=true&theme=radical)
 
