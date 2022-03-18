@@ -16,4 +16,7 @@ Prediction of path loss exponent and shadowing factor for test samples can be se
 
 ![githubresults](https://user-images.githubusercontent.com/50488198/159015248-72eb96df-f3c3-4bf1-a564-3c8dae8a2325.PNG)
 
+### Contact Info
+Mustafa BAL (Author) - mstfbal7@gmail.com
+
 
