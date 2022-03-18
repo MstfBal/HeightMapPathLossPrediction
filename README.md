@@ -1,6 +1,10 @@
 # HeightMapPathLossPrediction
 Regression of large-scale path loss parameters using deep neural networks
 
+Abstract
+Path loss exponent and shadowing factor are among important wireless channel parameters. These parameters can be estimated using field measurements or ray-tracing simulations, which are costly and time-consuming. In this work, we take a  deep neural network-based approach, which takes either satellite image or height map of a target region as input and estimates the desired channel parameters. We use the well-known VGG-16 architecture, pre-trained on the ImageNet dataset, as the backbone to extract image features, modify it as a regression network to produce channel parameters, and re-train it on our dataset, which consists of satellite image or height map as input and channel parameters as target values. We demonstrate that deep networks can be successfully utilized in estimating path loss exponent and shadowing factor of a region, simply from the region's satellite image or height map.  
+
+Method
 The VGG-16 model is used for predicting path loss exponent component(n) and shadowing factor(σ).
 Trained model weights and VGG-16 model are giving in this google drive link: 
 and the testing code can be found in this repo as jupyter-notebook file named as Testing_HeightMap.ipynb
