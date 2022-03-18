@@ -18,7 +18,7 @@ Prediction of path loss exponent and shadowing factor for test samples can be se
 
 ### Authors Info
 Mustafa BAL - mstfbal7@gmail.com
-Ahmed Nageeb MAREY
+<p>Ahmed Nageeb MAREY</p>
 Hasan Fehmi Ateş
 Tuncer Baykaş
 Bahadır Kürşad Güntürk
