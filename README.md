@@ -21,7 +21,7 @@ Mustafa BAL - mstfbal7@gmail.com
 <p>Ahmed Nageeb MAREY</p>
 <p>Hasan Fehmi Ateş</p>
 <p>Tuncer Baykaş</p>
-<p>Bahadır Kürşad Güntürk</p>
+<p>Bahadır K. Güntürk</p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MstfBal&show_icons=true&theme=radical)
 
